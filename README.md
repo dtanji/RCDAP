@@ -1,2 +1,0 @@
-# RCDAP
-Training Repository
